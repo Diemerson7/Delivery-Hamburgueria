@@ -40,4 +40,4 @@ Para alterar o número do WhatsApp nos botões, procure por todos os links que c
 E substitua pelo seu número (Código do país + DDD + Número).
 
 ---
-Desenvolvido por [Seu Nome] - 2025
+Desenvolvido por Diemerson - 2026
